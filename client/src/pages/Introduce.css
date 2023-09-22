@@ -1,0 +1,135 @@
+.membership-member-image {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  aspect-ratio: 1; /* 너비와 높이를 1:1 비율로 유지 */
+
+
+    background: #78a8f1;
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+    margin-bottom: 10px;
+    border-radius: 100%;
+
+}
+.membership-member-image:hover{
+    opacity: 0.7;
+}
+
+.membership-content-frame {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 5%;
+    background: transparent;
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+
+  }
+
+.membership-member-frame:hover {
+    transform: scale(1.05); /* hover 시 크기를 1.1배로 확대 */
+}
+
+.membership-member-frame {
+    
+    width: 200px;
+    height: 50%;
+    background: #efefef;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    opacity: 1;    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    padding: 25px;
+    padding-bottom: 3%;
+
+    border-radius: 25px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 스타일 지정 */
+    transition: transform 0.3s; /* hover 시 transform 속성 변경 시 부드럽게 변화하도록 설정 */
+
+  
+  }
+
+  .membership-member-content {
+    width: 100%;
+    
+  }
+
+  /*이름*/
+  .membership-member-name {
+    position: relative;
+    font-family: 'SamsungOne_Bold';
+    font-style: normal;
+    font-weight: 800;
+    white-space: pre-wrap;
+    font-size: 24px;
+    line-height: 34px;
+    margin-top: 20%;
+
+    color: #000000;
+}
+  /*학번*/
+.membership-member-stdId {
+    position: relative;
+    font-family: 'SamsungOne-400';
+    font-style: normal;
+    font-weight: 400;
+    white-space: pre-wrap;
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 2px;
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+  /*학과*/
+.membership-member-info {
+    position: relative;
+    font-family: 'SamsungOne-400';
+    font-style: normal;
+    font-weight: 400;
+    white-space: pre-wrap;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+  /*깃허브주소*/
+.membership-member-git {
+    width: 100%;
+    position: relative;
+    font-family: 'SamsungOne-400';
+    font-style: normal;
+    font-weight: 400;
+    white-space: pre-wrap;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+
+.membership-ship{
+    width:100%;
+    height: 100%;
+    background: transparent;
+    background-size: cover;
+    background-position: center;
+    top:0;
+}
+.membership-wave{
+    width:100%;
+    height:calc(100%-180px);
+    background: transparent;
+    background-size: cover;
+    background-position: bottom;
+}
+

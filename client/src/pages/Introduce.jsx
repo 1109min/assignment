@@ -11,7 +11,7 @@ const memberInfo=[
   {id:2,name:"류관곤",stdId:201935039,info:"소프트웨어학과 3학년",git:"https://github.com/RyuKwanKon",sns:"https://www.instagram.com/seungminister_/",img:"https://avatars.githubusercontent.com/u/97783148?v=4"},
   {id:3,name:"오진영",stdId:201935075,info:"소프트웨어학과 3학년",git:"https://github.com/OJOJIN",sns:"https://www.instagram.com//",img:"https://avatars.githubusercontent.com/u/99639919?v=4"},
   {id:4,name:"이승민",stdId:201935100,info:"소프트웨어학과 3학년",git:"https://github.com/1109min",sns:"https://www.instagram.com/seungminister_/",img:"https://avatars.githubusercontent.com/u/112641576?v=4"},
-  {id:5,name:"최승우",stdId:2018,info:"글로벌경영학과 3학년",git:"https://github.com/",sns:"https://www.instagram.com/hyunsseekkk/",img:"https://blog.kakaocdn.net/dn/beMPSu/btrgnqCbc7y/BUAB9jEUnrK6me2f5WJnTk/img.jpg"}
+  {id:5,name:"최승우",stdId:201931439,info:"글로벌경영학과 3학년",git:"https://github.com/Tiha123/Tiha123",sns:"https://www.instagram.com",img:"https://avatars.githubusercontent.com/u/144347200?v=4"}
 
 ]
 
